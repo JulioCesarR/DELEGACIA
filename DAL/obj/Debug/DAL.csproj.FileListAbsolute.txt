@@ -1,0 +1,8 @@
+E:\PROGRAMAS C#\MODELOS\DAL\bin\Debug\DAL.dll
+E:\PROGRAMAS C#\MODELOS\DAL\bin\Debug\DAL.pdb
+E:\PROGRAMAS C#\MODELOS\DAL\bin\Debug\MySql.Data.dll
+E:\PROGRAMAS C#\MODELOS\DAL\obj\Debug\DAL.dll
+E:\PROGRAMAS C#\MODELOS\DAL\obj\Debug\DAL.pdb
+E:\PROGRAMAS C#\MODELOS\DAL\bin\Debug\MODELOS.dll
+E:\PROGRAMAS C#\MODELOS\DAL\bin\Debug\MODELOS.pdb
+E:\PROGRAMAS C#\MODELOS\DAL\obj\Debug\DAL.csprojResolveAssemblyReference.cache

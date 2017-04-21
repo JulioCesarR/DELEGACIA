@@ -1,0 +1,5 @@
+E:\PROGRAMAS C#\MODELOS\BLL\bin\Debug\BLL.dll
+E:\PROGRAMAS C#\MODELOS\BLL\bin\Debug\BLL.pdb
+E:\PROGRAMAS C#\MODELOS\BLL\obj\Debug\BLL.csprojResolveAssemblyReference.cache
+E:\PROGRAMAS C#\MODELOS\BLL\obj\Debug\BLL.dll
+E:\PROGRAMAS C#\MODELOS\BLL\obj\Debug\BLL.pdb
